@@ -2,4 +2,5 @@
     body {
         background-image: url("color.jpg");
         background-size: 100%;
+        background-attachment: fixed;
     }
